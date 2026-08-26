@@ -22,7 +22,7 @@ export default function Hero() {
           <Reveal>
             <div className="inline-flex items-center gap-2.5 rounded-full border border-line bg-white px-4 py-1.5 mb-8 shadow-soft">
               <span className="w-1.5 h-1.5 rounded-full bg-primary" />
-              <span className="eyebrow text-slate">We build · We market · You scale</span>
+              <span className="eyebrow text-slate whitespace-nowrap ">We build · We market · You scale</span>
             </div>
           </Reveal>
 
